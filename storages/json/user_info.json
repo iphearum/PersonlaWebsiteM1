@@ -1,0 +1,57 @@
+{
+    "name": "Jonh Doe",
+    "experiences": [{
+            "date_at": 5678,
+            "exp_at": 9876,
+            "year": 200900223,
+            "where": "Phone Penh",
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        },
+        {
+            "date_at": 5678,
+            "exp_at": 9876,
+            "year": 200900223,
+            "where": "Phone Penh",
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        },
+        {
+            "date_at": 5678,
+            "exp_at": 9876,
+            "year": 200900223,
+            "where": "Phone Penh",
+            "desciption": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        }
+    ],
+    "skils": [{
+            "name": "Software Engineer"
+        },
+        {
+            "name": "Software Engineer"
+        },
+        {
+            "name": "Software Engineer"
+        }
+    ],
+    "background": [{
+            "name": "Techer",
+            "where": "Phone Penh",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        },
+        {
+            "name": "Techer",
+            "where": "Phone Penh",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        },
+        {
+            "name": "Techer",
+            "where": "Phone Penh",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+        }
+    ],
+    "contact": {
+        "address": "Phnom Penh",
+        "email": "jonhdoe@sudo.com",
+        "Phone": 098765432
+    },
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe et accusantium vel, temporibus velit odio! Nihil exercitationem sapiente consequatur quidem maxime laudantium est architecto expedita unde facilis ipsum ullam voluptatum ducimus, pariatur soluta alias, numquam nam fugit tempora cum vero culpa odio reprehenderit quibusdam. Suscipit quas nesciunt quibusdam molestias corporis!"
+}

@@ -1,0 +1,10 @@
+{
+    "user": false,
+    "page_name": "Home page",
+    "pages": [
+        "pages/home.php",
+        "pages/contact.php",
+        "pages/about.php"
+    ],
+    "stay_on": 1
+}
